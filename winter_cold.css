@@ -1,0 +1,40 @@
+
+    #main{
+        background-color: blueviolet;
+        margin-top: 20px;
+        margin-left: 280px;
+        margin-right: 280px;
+        padding-top: 40px;
+        padding-left: 45px;
+        padding-right: 0px;
+        padding-bottom: 30px;
+        border-radius: 10px;
+
+    }
+.image{
+border-radius: 10px;
+box-shadow: 0px 0px 30px black;
+}
+
+h1{
+font-size: 50px;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+p{
+    font-size: 30px;
+    
+}
+button{
+    width: 1000px;
+    height: 50px;
+    font-size: 20px;
+    background-color: blueviolet;
+    color: black;
+    border: solid;
+    border-radius: 5px;
+    margin-left: 10px;
+}
+
+.logo ,p {
+    display: inline-block;
+}
