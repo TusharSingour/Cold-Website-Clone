@@ -9,10 +9,6 @@ The project demonstrates layout design, color gradients, responsive image displa
 
 ![website preview](https://raw.githubusercontent.com/TusharSingour/Cold-Website-Clone/refs/heads/main/image/web.clone.png)
 
-Replace IMAGE_URL_HERE with your uploaded screenshot link, for example:
-
-
-
 ---
 
 ## 🚀 Features
