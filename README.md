@@ -10,7 +10,8 @@ The project demonstrates layout design, color gradients, responsive image displa
 ![Screenshot](IMAGE_URL_HERE)
 
 Replace IMAGE_URL_HERE with your uploaded screenshot link, for example:
-image/web.clone.png
+web.clone.png
+
 ---
 
 ## 🚀 Features
